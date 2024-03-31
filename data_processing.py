@@ -15,3 +15,9 @@ def multiply(a,b):
     return b
 
 print("multiply function")
+
+def divide(a,b):
+    e=a/b
+    return a
+
+print("divide function")
