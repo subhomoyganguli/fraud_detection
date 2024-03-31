@@ -9,3 +9,6 @@ def model2():
 
 def model3():
     print("code for Model 3")
+
+
+print("Model 2 is best among the three")
